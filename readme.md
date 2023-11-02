@@ -1,7 +1,6 @@
 # FikirHavuzuSitesi
-Seyahat Sitesi projem, hayata geçmesi halinde; kullanıcıların dünya genelindeki farklı destinasyonları keşfedebileceği, seyahat planlamalarını 
-özelleştirebileceği ve seyahat deneyimlerini paylaşabileceği bir platformdur. Bu projenin amacı, gezginlerin unutulmaz anılar biriktirmelerine
-yardımcı olmak ve seyahat tutkunlarının deneyimlerini paylaşabilmesini sağlamaktır.
+Fikir Havuzu Sitesi projem, hayata geçmesi halinde; kullanıcıların fikirlerini/önerilerini yöneticilere daha doğru ve tam iletmelerini sağlayacak,
+yöneticilerin fikirler/öneriler hakkında daha sağlıklı karar vermelerini sağlayacaktır.
 
 Genel Fonksiyonlar:
 
