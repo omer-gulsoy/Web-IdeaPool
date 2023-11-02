@@ -36,7 +36,7 @@ Kullanılan Diller:
     
     Backend:    - C#
 
-    Veritabanı: - MS SQL
+    Veritabanı: - MS SQL19
 
 Projeye Ait Görseller:
 
