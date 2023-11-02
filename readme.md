@@ -1,5 +1,5 @@
 # FikirHavuzuSitesi
-Fikir Havuzu Sitesi projem, hayata geçmesi halinde; kullanıcıların fikirlerini/önerilerini yöneticilere daha doğru ve tam iletmelerini sağlayacak,
+Fikir Havuzu Sitesi projesi, hayata geçmesi halinde; kullanıcıların fikirlerini/önerilerini yöneticilere daha doğru ve tam iletmelerini sağlayacak,
 yöneticilerin fikirler/öneriler hakkında daha sağlıklı karar vermelerini sağlayacaktır.
 
 Genel Fonksiyonlar:
