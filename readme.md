@@ -39,6 +39,7 @@ Kullanılan Diller:
     Veritabanı: - MS SQL
 
 Projeye Ait Görseller:
+
 ![1](https://github.com/omer-gulsoy/FikirHavuzuSitesi/assets/139320509/64035cee-2c59-4d0a-892c-055ea9fc660d)
 ![1_2](https://github.com/omer-gulsoy/FikirHavuzuSitesi/assets/139320509/862206ae-cbe2-4000-8090-90bf4bdc7688)
 ![2](https://github.com/omer-gulsoy/FikirHavuzuSitesi/assets/139320509/2915fac5-2fd2-466d-b122-ab7258ed7111)
