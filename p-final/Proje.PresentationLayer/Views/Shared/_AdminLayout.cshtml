@@ -1,0 +1,76 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+	<base href="./">
+	<meta charset="utf-8">
+	<!-- Vendors styles-->
+	<link rel="stylesheet" href="~/template/vendors/simplebar/css/simplebar.css">
+	<link rel="stylesheet" href="~/template/css/vendors/simplebar.css">
+	<!-- Main styles for this application-->
+	<link href="~/template/css/style.css" rel="stylesheet">
+	<!-- We use those styles to show code examples, you should remove them in your application.-->
+	<link href="~/template/css/examples.css" rel="stylesheet">
+	<link href="~/template/vendors/Acoreui/chartjs/css/coreui-chartjs.css" rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,500;1,700&family=Young+Serif&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="~/my_import/css/style.css">
+	<link rel="icon" href="~/my_import/favicon.ico" type="image/x-icon" />
+
+</head>
+<body>
+	<div class="wrapper d-flex flex-column min-vh-100 bg-light">
+		<header class="header header-sticky mb-4">
+			<div class="container-fluid">
+				<button class="header-toggler px-md-0 me-md-3" type="button" onclick="coreui.Sidebar.getInstance(document.querySelector('#sidebar')).toggle()">
+					<svg class="icon icon-lg">
+						<use xlink:href="~/template/vendors/Acoreui/icons/svg/free.svg#cil-menu"></use>
+					</svg>
+				</button><a class="header-brand d-md-none" href="#">
+					<svg width="118" height="46" alt="CoreUI Logo">
+						<use xlink:href="~/template/assets/brand/coreui.svg#full"></use>
+					</svg>
+				</a>
+				<ul class="header-nav d-none d-md-flex">
+					<li class="nav-item"><a class="nav-link" href="~/Admin/Index"><b>Ana Sayfa</b></a></li>
+					<li class="nav-item"><a class="nav-link" href="~/Idea/List"><b>Fikir/Öneri İşlemleri</b></a></li>
+					<li class="nav-item"><a class="nav-link" href="~/Admin/ListUsers"><b>Kullanıcı İşlemleri</b></a></li>
+				</ul>
+
+				<ul class="header-nav ms-3">
+					<li class="nav-item dropdown">
+						<a class="nav-link py-0" data-coreui-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+							<div class="avatar avatar-md"><img class="avatar-img" src="~/my_import/user.png" alt="user@email.com"></div>
+						</a>
+						<div class="dropdown-menu dropdown-menu-end pt-0">
+							<div class="dropdown-divider"></div><a class="dropdown-item" href="~/Login/Index">
+								<svg class="icon me-2">
+									<use xlink:href="~/template/vendors/Acoreui/icons/svg/free.svg#cil-account-logout"></use>
+								</svg> Çıkış Yap
+							</a>
+						</div>
+					</li>
+				</ul>
+			</div>
+			<div class="header-divider"></div>
+			<div class="container-fluid" id="barStyle">
+				<nav aria-label="breadcrumb">
+					<ol class="breadcrumb my-0 ms-2">
+						<li class="breadcrumb-item">
+							<!-- if breadcrumb is single--><span><b>Fikir Havuzu</b> | Yönetici</span>
+						</li>
+					</ol>
+				</nav>
+			</div>
+		</header>
+		@RenderBody()
+
+	</div>
+	<footer class="footer">
+		<div>© 2023 Fikir Havuzu.</div>
+		<div class="ms-auto">Created by&nbsp;<a href="#">Ömer Gülsoy </a> </div>
+		<script src="~/template/vendors/Acoreui/coreui/js/coreui.bundle.min.js"></script>
+		<script src="~/template/vendors/simplebar/js/simplebar.min.js"></script>
+	</footer>
+</body>
+</html>

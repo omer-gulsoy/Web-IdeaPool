@@ -1,0 +1,44 @@
+h1 {
+    font-family: 'Anton', sans-serif;
+    font-weight: bold;
+}
+h8 {
+    font-family: 'Anton', sans-serif;
+    font-weight: bold;
+}
+h6 {
+    font-family: 'Roboto', sans-serif;
+}
+#barStyle{
+    background-color:#291ab5;
+    color:aliceblue;
+    border-radius:25px;
+}
+#theadStyle {
+    background-color: #291ab5;
+    color: aliceblue;
+}
+table {
+    text-align: center;
+    background-color: aliceblue;
+}
+#baslik {
+    background-color: #291ab5;
+    color: aliceblue;
+    border-radius: 25px;
+    text-align:center;
+    padding:15px;
+}
+#anaSayfa {
+    background-color: #291ab5;
+    border-radius: 25px;
+    color: white;
+    height: 200px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+#anaSayfaYazi{
+    font-size:150px;
+    text-align:center;
+
+}

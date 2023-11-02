@@ -1,0 +1,71 @@
+﻿@model Proje.EntityLayer.Concrate.AppUser
+@{
+	ViewData["Title"] = "UpdateUser";
+	Layout = "~/Views/Shared/_NewDefaultLayout.cshtml";
+}
+<html lang="en">
+<head>
+
+	<title>Kullanıcı Yetki Düzenleme</title>
+</head>
+<body>
+	<!-- Navigation-->
+	<a class="menu-toggle rounded" href="#"><i class="fas fa-bars"></i></a>
+	<nav id="sidebar-wrapper">
+		<ul class="sidebar-nav">
+			<li class="sidebar-brand"><a href="~/Default/Index"><h3><b>Fikir Havuzu</b></h3></a></li>
+			<li class="sidebar-nav-item"><a href="~/Default/Index">Ana Sayfa</a></li>
+			<li class="sidebar-nav-item"><a href="~/Admin/Index">Yönetici Paneli</a></li>
+			<li class="sidebar-nav-item"><a href="~/Idea/List">Fikir/Öneri İşlemleri</a></li>
+			<li class="sidebar-nav-item"><a href="~/Admin/ListUsers"><h4><b>Kullanıcı İşlemleri</b></h4></a></li>
+			<li class="sidebar-nav-item"><a href="~/MyProfile/Index">Profilim</a></li>
+			<li class="sidebar-nav-item"><a href="~/Default/Index">Çıkış Yap</a></li>
+		</ul>
+	</nav>
+
+	<div class="masthead d-flex align-items-center">
+		<div class="container">
+
+
+			<form method="post">
+				<div class="row justify-content-center">
+					<div class="col-md-6">
+						<div class="card mb-4 mx-4" style="max-width:95%;border-style: solid;border-color:black; border-width: 25px;border-radius:25px">
+							<div class="card-body p-4">
+								<h2 class="mb-3" id="baslik"><b>Kullanıcı Düzenleme</b></h2>
+
+								<input type="hidden" asp-for="@Model.Id" value="@Model.Id" />
+								<h8>Statü :</h8>
+								<div class="input-group mb-3">
+									<span class="input-group-text">
+										<svg class="icon">
+											<use xlink:href="~/template/vendors/Acoreui/icons/svg/free.svg#cil-user"></use>
+										</svg>
+									</span>
+									<input type="text" asp-for="@Model.Status" class="form-control" type="text">
+								</div>@* Statü *@
+								<h8>Yönetici Mi? :</h8>
+								<div class="input-group mb-3">
+									<span class="input-group-text">
+										<svg class="icon">
+											<use xlink:href="~/template/vendors/Acoreui/icons/svg/free.svg#cil-user"></use>
+										</svg>
+									</span>
+									<input type="text" asp-for="@Model.IsAdmin" class="form-control" type="text">
+								</div>@* Statü *@
+
+
+								<button class="btn btn-primary btn-lg btn-block" type="submit" id="send"><b>Kaydet</b></button>
+
+							</div>
+						</div>
+					</div>
+				</div>
+			</form>
+		</div>
+	</div>
+
+
+
+</body>
+</html>

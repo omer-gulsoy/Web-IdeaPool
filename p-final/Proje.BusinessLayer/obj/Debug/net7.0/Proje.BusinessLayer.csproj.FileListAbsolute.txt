@@ -1,0 +1,63 @@
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.BusinessLayer\bin\Debug\net7.0\Proje.BusinessLayer.deps.json
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.BusinessLayer\bin\Debug\net7.0\Proje.BusinessLayer.runtimeconfig.json
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.BusinessLayer\bin\Debug\net7.0\Proje.BusinessLayer.dll
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.BusinessLayer\bin\Debug\net7.0\Proje.BusinessLayer.pdb
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.BusinessLayer\bin\Debug\net7.0\Proje.DataAccessLayer.dll
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.BusinessLayer\bin\Debug\net7.0\Proje.DtoLayer.dll
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.BusinessLayer\bin\Debug\net7.0\Proje.EntityLayer.dll
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.BusinessLayer\bin\Debug\net7.0\Proje.DataAccessLayer.pdb
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.BusinessLayer\bin\Debug\net7.0\Proje.DtoLayer.pdb
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.BusinessLayer\bin\Debug\net7.0\Proje.EntityLayer.pdb
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.BusinessLayer\obj\Debug\net7.0\Proje.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.BusinessLayer\obj\Debug\net7.0\Proje.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.BusinessLayer\obj\Debug\net7.0\Proje.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.BusinessLayer\obj\Debug\net7.0\Proje.BusinessLayer.AssemblyInfo.cs
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.BusinessLayer\obj\Debug\net7.0\Proje.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.BusinessLayer\obj\Debug\net7.0\Proje.BusinessLayer.csproj.CopyComplete
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.BusinessLayer\obj\Debug\net7.0\Proje.BusinessLayer.dll
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.BusinessLayer\obj\Debug\net7.0\refint\Proje.BusinessLayer.dll
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.BusinessLayer\obj\Debug\net7.0\Proje.BusinessLayer.pdb
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.BusinessLayer\obj\Debug\net7.0\Proje.BusinessLayer.genruntimeconfig.cache
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.BusinessLayer\obj\Debug\net7.0\ref\Proje.BusinessLayer.dll
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.BusinessLayer\bin\Debug\net7.0\Proje.BusinessLayer.deps.json
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.BusinessLayer\bin\Debug\net7.0\Proje.BusinessLayer.runtimeconfig.json
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.BusinessLayer\bin\Debug\net7.0\Proje.BusinessLayer.dll
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.BusinessLayer\bin\Debug\net7.0\Proje.BusinessLayer.pdb
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.BusinessLayer\bin\Debug\net7.0\Proje.DataAccessLayer.dll
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.BusinessLayer\bin\Debug\net7.0\Proje.DtoLayer.dll
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.BusinessLayer\bin\Debug\net7.0\Proje.EntityLayer.dll
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.BusinessLayer\bin\Debug\net7.0\Proje.DataAccessLayer.pdb
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.BusinessLayer\bin\Debug\net7.0\Proje.DtoLayer.pdb
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.BusinessLayer\bin\Debug\net7.0\Proje.EntityLayer.pdb
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.BusinessLayer\obj\Debug\net7.0\Proje.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.BusinessLayer\obj\Debug\net7.0\Proje.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.BusinessLayer\obj\Debug\net7.0\Proje.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.BusinessLayer\obj\Debug\net7.0\Proje.BusinessLayer.AssemblyInfo.cs
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.BusinessLayer\obj\Debug\net7.0\Proje.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.BusinessLayer\obj\Debug\net7.0\Proje.BusinessLayer.csproj.CopyComplete
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.BusinessLayer\obj\Debug\net7.0\Proje.BusinessLayer.dll
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.BusinessLayer\obj\Debug\net7.0\refint\Proje.BusinessLayer.dll
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.BusinessLayer\obj\Debug\net7.0\Proje.BusinessLayer.pdb
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.BusinessLayer\obj\Debug\net7.0\Proje.BusinessLayer.genruntimeconfig.cache
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.BusinessLayer\obj\Debug\net7.0\ref\Proje.BusinessLayer.dll
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.BusinessLayer\bin\Debug\net7.0\Proje.BusinessLayer.deps.json
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.BusinessLayer\bin\Debug\net7.0\Proje.BusinessLayer.runtimeconfig.json
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.BusinessLayer\bin\Debug\net7.0\Proje.BusinessLayer.dll
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.BusinessLayer\bin\Debug\net7.0\Proje.BusinessLayer.pdb
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.BusinessLayer\bin\Debug\net7.0\Proje.DataAccessLayer.dll
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.BusinessLayer\bin\Debug\net7.0\Proje.DtoLayer.dll
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.BusinessLayer\bin\Debug\net7.0\Proje.EntityLayer.dll
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.BusinessLayer\bin\Debug\net7.0\Proje.DataAccessLayer.pdb
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.BusinessLayer\bin\Debug\net7.0\Proje.DtoLayer.pdb
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.BusinessLayer\bin\Debug\net7.0\Proje.EntityLayer.pdb
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.BusinessLayer\obj\Debug\net7.0\Proje.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.BusinessLayer\obj\Debug\net7.0\Proje.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.BusinessLayer\obj\Debug\net7.0\Proje.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.BusinessLayer\obj\Debug\net7.0\Proje.BusinessLayer.AssemblyInfo.cs
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.BusinessLayer\obj\Debug\net7.0\Proje.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.BusinessLayer\obj\Debug\net7.0\Proje.BusinessLayer.csproj.CopyComplete
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.BusinessLayer\obj\Debug\net7.0\Proje.BusinessLayer.dll
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.BusinessLayer\obj\Debug\net7.0\refint\Proje.BusinessLayer.dll
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.BusinessLayer\obj\Debug\net7.0\Proje.BusinessLayer.pdb
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.BusinessLayer\obj\Debug\net7.0\Proje.BusinessLayer.genruntimeconfig.cache
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.BusinessLayer\obj\Debug\net7.0\ref\Proje.BusinessLayer.dll

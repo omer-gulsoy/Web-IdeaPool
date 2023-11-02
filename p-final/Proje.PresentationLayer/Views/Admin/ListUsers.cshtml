@@ -1,0 +1,82 @@
+﻿@model IEnumerable<Proje.EntityLayer.Concrate.AppUser>
+@{
+	Layout = "~/Views/Shared/_NewDefaultLayout.cshtml";
+}
+<head>
+	<title>Kullanıcı İşlemleri</title>
+</head>
+
+
+<!-- Navigation-->
+<a class="menu-toggle rounded" href="#"><i class="fas fa-bars"></i></a>
+<nav id="sidebar-wrapper">
+	<ul class="sidebar-nav">
+		<li class="sidebar-brand"><a href="~/Default/Index"><h3><b>Fikir Havuzu</b></h3></a></li>
+		<li class="sidebar-nav-item"><a href="~/Default/Index">Ana Sayfa</a></li>
+		<li class="sidebar-nav-item"><a href="~/Admin/Index">Yönetici Paneli</a></li>
+		<li class="sidebar-nav-item"><a href="~/Idea/List">Fikir/Öneri İşlemleri</a></li>
+		<li class="sidebar-nav-item"><a href="~/Admin/ListUsers"><h4><b>Kullanıcı İşlemleri</b></h4></a></li>
+		<li class="sidebar-nav-item"><a href="~/MyProfile/Index">Profilim</a></li>
+		<li class="sidebar-nav-item"><a href="~/Default/Index">Çıkış Yap</a></li>
+	</ul>
+</nav>
+
+<div class="masthead d-flex align-items-center">
+
+	<table class="table table-bordered m-5" style="max-width:95%;border-style: solid;border-color:black; border-width: 25px;border-radius:25px">
+		<thead id="theadStyle">
+			<tr>
+				<th scope="col"><b>ID</b></th>
+				<th scope="col"><b>İsim</b></th>
+				<th scope="col"><b>Soyisim</b></th>
+				<th scope="col"><b>T.C. Kimlik Numarası</b></th>
+				<th scope="col"><b>Sicil Numarası</b></th>
+				<th scope="col"><b>Telefon Numarası</b></th>
+				<th scope="col"><b>E-Posta Adresi</b></th>
+				<th scope="col"><b>Yetki</b></th>
+				<th scope="col"><b>Statü</b></th>
+				<th scope="col"><b>Düzenleme</b></th>
+				<th scope="col"><b>Silme</b></th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var item in Model)
+			{
+				<tr>
+					<td id="theadStyle"><b>@item.Id</b></td>
+					<td>@item.Name</td>
+					<td>@item.Surname</td>
+					<td>@item.UserName</td>
+					<td>@item.SicilNo</td>
+					<td>@item.PhoneNumber</td>
+					<td>@item.Email</td>
+					@if (item.IsAdmin == true)
+					{
+						<td>Yönetici</td>
+					}
+					else
+					{
+						<td>Kullanıcı</td>
+					}
+					@if (item.Status == true)
+					{
+						<td>Aktif</td>
+					}
+					else
+					{
+						<td>Pasif</td>
+					}
+					<td><a class="btn btn-warning" asp-action="UpdateUser" asp-route-id="@item.Id">Düzenle</a></td>
+
+					<td>
+						<form asp-action="Delete" method="post">
+							<input type="hidden" name="id" value="@item.Id" />
+							<button type="submit" class="btn btn-danger">Sil</button>
+						</form>
+					</td>
+				</tr>
+			}
+
+		</tbody>
+	</table>
+</div>

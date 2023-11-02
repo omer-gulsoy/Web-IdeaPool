@@ -1,0 +1,73 @@
+﻿@model LoginViewModel
+@{
+	Layout = "~/Views/Shared/_NewDefaultLayout.cshtml";
+}
+<head>
+	<title>Giriş Yap</title>
+</head>
+<body>
+	<!-- Navigation-->
+	<a class="menu-toggle rounded" href="#"><i class="fas fa-bars"></i></a>
+	<nav id="sidebar-wrapper">
+		<ul class="sidebar-nav">
+			<li class="sidebar-brand"><a href="~/Default/Index"><h3><b>Fikir Havuzu</b></h3></a></li>
+			<li class="sidebar-nav-item"><a href="~/Default/Index">Ana Sayfa</a></li>
+			<li class="sidebar-nav-item"><a href="~/Login/Index"><h4><b>Giriş Yap</b></h4></a></li>
+			<li class="sidebar-nav-item"><a href="~/Register/Index">Kaydol</a></li>
+		</ul>
+	</nav>
+	<!-- Header-->
+	<header class="masthead d-flex align-items-center">
+		<div class="container">
+			<form method="post">
+				<div class="row justify-content-center">
+					<div class="col-lg-8">
+						<div class="card-group d-block d-md-flex row" style="border-style: solid;border-color:black; border-width: 25px;border-radius:25px">
+							<div class="card col-md-7 p-4 mb-0">
+								<div class="card-body">
+									<h1><b>Giriş</b></h1>
+									<p class="text-medium-emphasis">Hesabınıza giriş yapın.</p>
+									<h8>T.C. Kimlik Numaranız :</h8>
+									<div class="input-group mb-1">
+										<span class="input-group-text">
+											<svg class="icon">
+												<use xlink:href="~/template/vendors/Acoreui/icons/svg/free.svg#cil-user"></use>
+											</svg>
+										</span>
+										<input asp-for="Username" class="form-control" type="text">
+									</div>
+									<h8>Parolanız :</h8>
+									<div class="input-group mb-4">
+										<span class="input-group-text">
+											<svg class="icon">
+												<use xlink:href="~/template/vendors/Acoreui/icons/svg/free.svg#cil-lock-locked"></use>
+											</svg>
+										</span>
+										<input asp-for="Password" class="form-control" type="password">
+									</div>
+									<div class="row">
+										<div class="col-6">
+											<button class="btn btn-primary btn-lg btn-block" type="submit" id="send"><b>Giriş Yap</b></button>
+
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="card col-md-5 text-white bg-primary py-5">
+								<div class="card-body text-center">
+									<div>
+										<h1 class="mb-5"><b>Kaydol</b></h1>
+										<p class="mb-5">Fikir Havuzu sistemine giriş yapmak için aşağıdaki kayıt bağlantısına giderek gerekli formu doldurarak kaydolmanız gerekmektedir.</p>
+										<a href="~/Register/Index"><button class="btn btn-lg btn-outline-light mt-3" type="button">Kayıt Formu</button></a>
+
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</form>
+		</div>
+
+	</header>
+</body>

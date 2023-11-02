@@ -1,0 +1,42 @@
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.DtoLayer\bin\Debug\net7.0\Proje.DtoLayer.deps.json
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.DtoLayer\bin\Debug\net7.0\Proje.DtoLayer.runtimeconfig.json
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.DtoLayer\bin\Debug\net7.0\Proje.DtoLayer.dll
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.DtoLayer\bin\Debug\net7.0\Proje.DtoLayer.pdb
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.DtoLayer\obj\Debug\net7.0\Proje.DtoLayer.csproj.AssemblyReference.cache
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.DtoLayer\obj\Debug\net7.0\Proje.DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.DtoLayer\obj\Debug\net7.0\Proje.DtoLayer.AssemblyInfoInputs.cache
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.DtoLayer\obj\Debug\net7.0\Proje.DtoLayer.AssemblyInfo.cs
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.DtoLayer\obj\Debug\net7.0\Proje.DtoLayer.csproj.CoreCompileInputs.cache
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.DtoLayer\obj\Debug\net7.0\Proje.DtoLayer.dll
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.DtoLayer\obj\Debug\net7.0\refint\Proje.DtoLayer.dll
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.DtoLayer\obj\Debug\net7.0\Proje.DtoLayer.pdb
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.DtoLayer\obj\Debug\net7.0\Proje.DtoLayer.genruntimeconfig.cache
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.DtoLayer\obj\Debug\net7.0\ref\Proje.DtoLayer.dll
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.DtoLayer\bin\Debug\net7.0\Proje.DtoLayer.deps.json
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.DtoLayer\bin\Debug\net7.0\Proje.DtoLayer.runtimeconfig.json
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.DtoLayer\bin\Debug\net7.0\Proje.DtoLayer.dll
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.DtoLayer\bin\Debug\net7.0\Proje.DtoLayer.pdb
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.DtoLayer\obj\Debug\net7.0\Proje.DtoLayer.csproj.AssemblyReference.cache
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.DtoLayer\obj\Debug\net7.0\Proje.DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.DtoLayer\obj\Debug\net7.0\Proje.DtoLayer.AssemblyInfoInputs.cache
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.DtoLayer\obj\Debug\net7.0\Proje.DtoLayer.AssemblyInfo.cs
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.DtoLayer\obj\Debug\net7.0\Proje.DtoLayer.csproj.CoreCompileInputs.cache
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.DtoLayer\obj\Debug\net7.0\Proje.DtoLayer.dll
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.DtoLayer\obj\Debug\net7.0\refint\Proje.DtoLayer.dll
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.DtoLayer\obj\Debug\net7.0\Proje.DtoLayer.pdb
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.DtoLayer\obj\Debug\net7.0\Proje.DtoLayer.genruntimeconfig.cache
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.DtoLayer\obj\Debug\net7.0\ref\Proje.DtoLayer.dll
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.DtoLayer\bin\Debug\net7.0\Proje.DtoLayer.deps.json
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.DtoLayer\bin\Debug\net7.0\Proje.DtoLayer.runtimeconfig.json
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.DtoLayer\bin\Debug\net7.0\Proje.DtoLayer.dll
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.DtoLayer\bin\Debug\net7.0\Proje.DtoLayer.pdb
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.DtoLayer\obj\Debug\net7.0\Proje.DtoLayer.csproj.AssemblyReference.cache
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.DtoLayer\obj\Debug\net7.0\Proje.DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.DtoLayer\obj\Debug\net7.0\Proje.DtoLayer.AssemblyInfoInputs.cache
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.DtoLayer\obj\Debug\net7.0\Proje.DtoLayer.AssemblyInfo.cs
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.DtoLayer\obj\Debug\net7.0\Proje.DtoLayer.csproj.CoreCompileInputs.cache
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.DtoLayer\obj\Debug\net7.0\Proje.DtoLayer.dll
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.DtoLayer\obj\Debug\net7.0\refint\Proje.DtoLayer.dll
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.DtoLayer\obj\Debug\net7.0\Proje.DtoLayer.pdb
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.DtoLayer\obj\Debug\net7.0\Proje.DtoLayer.genruntimeconfig.cache
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.DtoLayer\obj\Debug\net7.0\ref\Proje.DtoLayer.dll

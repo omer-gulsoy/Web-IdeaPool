@@ -1,0 +1,112 @@
+﻿@model IEnumerable<Proje.EntityLayer.Concrate.Idea>
+@{
+	Layout = "~/Views/Shared/_NewDefaultLayout.cshtml";
+}
+<head>
+	<title>Fikir/Öneri İşlemleri</title>
+</head>
+
+<!-- Navigation-->
+<a class="menu-toggle rounded" href="#"><i class="fas fa-bars"></i></a>
+<nav id="sidebar-wrapper">
+	<ul class="sidebar-nav">
+		<li class="sidebar-brand"><a href="~/Default/Index"><h3><b>Fikir Havuzu</b></h3></a></li>
+		<li class="sidebar-nav-item"><a href="~/Default/Index">Ana Sayfa</a></li>
+		<li class="sidebar-nav-item"><a href="~/Admin/Index">Yönetici Paneli</a></li>
+		<li class="sidebar-nav-item"><a href="~/Idea/List"><h4><b>Fikir/Öneri İşlemleri</b></h4></a></li>
+		<li class="sidebar-nav-item"><a href="~/Admin/ListUsers">Kullanıcı İşlemleri</a></li>
+		<li class="sidebar-nav-item"><a href="~/MyProfile/Index">Profilim</a></li>
+		<li class="sidebar-nav-item"><a href="~/Default/Index">Çıkış Yap</a></li>
+	</ul>
+</nav>
+
+
+
+
+<div class="masthead align-items-center">
+
+
+	<div class="container" style="background-color:#291ab5;margin-left:auto;border-style: solid;border-color:black; border-width: 25px;border-radius:25px;height:150px;width:600px">
+		@using (Html.BeginForm())
+		{
+			<div class="form-group">
+				<div class="mt-3" style="color:white">
+					<p><b>Başlık, Kategori ID yada Yazar ID girerek filtreleme yapabilirsiniz.</b></p>
+				</div>
+				<div style="float:left">
+					@Html.TextBox("ara",null,new{@class="form-control",@placeholder=""});
+				</div>
+				<div>
+					<input type="submit" name="btn" value="Ara" class="btn btn-info" />
+				</div>
+			</div>
+		}
+	</div>
+
+
+
+
+
+	<table class="table table-bordered m-5" style="max-width:95%;border-style: solid;border-color:black; border-width: 25px;border-radius:25px">
+		<thead id="theadStyle">
+			<tr>
+				<th scope="col"><b>ID</b></th>
+				<th scope="col"><b>Yazar ID</b></th>
+				<th scope="col"><b>Başlık</b></th>
+				<th scope="col"><b>Fayda</b></th>
+				<th scope="col"><b>İçerik</b></th>
+				<th scope="col"><b>Kategori</b></th>
+				<th scope="col"><b>Yazım Tarihi</b></th>
+				<th scope="col"><b>Güncel Değerlendirme</b></th>
+				<th scope="col"><b>Puan</b></th>
+				<th scope="col"><b>Karar</b></th>
+				<th scope="col"><b>Değerlendirme</b></th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var item in Model)
+			{
+				<tr>
+					<td id="theadStyle"><b>@item.IdeaId</b></td>
+					<td>@item.AppUserId</td>
+					<td>@item.Baslik</td>
+					<td>@item.Fayda</td>
+					<td>@item.Icerik</td>
+					@switch (@item.CategoryId)
+					{
+						case 1:
+							<td>Ürün</td>
+							break;
+						case 2:
+							<td>Hizmet</td>
+							break;
+						case 3:
+							<td>Süreç</td>
+							break;
+					}
+					<td>@item.OlusturmaTarihi</td>
+					@if (item.YoneticiDegerlendirme == "-")
+					{
+						<td><b>Değerlendirmede bulunmadınız.</b></td>
+					}
+
+					else
+					{
+						<td>@item.YoneticiDegerlendirme</td>
+					}
+					<td>@item.Puan</td>
+					@if (item.Karar == true)
+					{
+						<td>Olumlu</td>
+					}
+					else
+					{
+						<td>Olumsuz</td>
+					}
+					<td><a class="btn btn-warning" asp-action="UpdateIdea" asp-route-id="@item.IdeaId">Değerlendir</a></td>
+				</tr>
+			}
+
+		</tbody>
+	</table>
+</div>

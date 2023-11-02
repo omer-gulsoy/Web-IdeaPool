@@ -1,0 +1,120 @@
+﻿@{
+	Layout = "~/Views/Shared/_NewLayout.cshtml";
+}
+<head>
+	<title>Ana Sayfa</title>
+</head>
+<!-- Navigation-->
+<div>
+	<a class="menu-toggle rounded" href="#"><i class="fas fa-bars"></i></a>
+	<nav id="sidebar-wrapper">
+		<ul class="sidebar-nav">
+			<li class="sidebar-brand"><a href="#page-top"><h3><b>Fikir Havuzu</b></h3></a></li>
+			<li class="sidebar-nav-item"><a href="~/Default/Index"><h4><b>Ana Sayfa</b></h4></a></li>
+			<li class="sidebar-nav-item"><a href="#about">Hakkında</a></li>
+			<li class="sidebar-nav-item"><a href="#services">Değerler</a></li>
+			<li class="sidebar-nav-item"><a href="#portfolio">Giriş Yap</a></li>
+			<li class="sidebar-nav-item"><a href="#register">Kaydol</a></li>
+		</ul>
+	</nav>
+</div>
+<!-- Header-->
+<header class="masthead d-flex align-items-center">
+	<div class="container px-4 px-lg-5 text-center">
+		<h1 class="mb-1">Fikir Havuzu</h1>
+		<h3 class="mb-5"><em>Düşünceleriniz bizler için değerli...</em></h3>
+		<a class="btn btn-primary btn-xl" href="#about">Bilgi Almak İçin Tıklayın</a>
+	</div>
+</header>
+<!-- About-->
+<section class="content-section bg-light" id="about">
+	<div class="container px-4 px-lg-5 text-center">
+		<div class="row gx-4 gx-lg-5 justify-content-center">
+			<div class="col-lg-10">
+				<h2>Fikir Havuzu ile daha iyi bir çalışma ortamına sahip olun!</h2>
+				<p class="lead mb-5">
+					Kullanıcıların daha ergonomik çalışşma ortamına sahip olması için fikir/önerilerde bulunmaları; <br />
+					Yöneticilerin daha doğru aksiyonlarla şirketin verimini artırması amacımız.
+				</p>
+				<a class="btn btn-dark btn-xl" href="#services">Faydalar</a>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- Services-->
+<section class="content-section bg-primary text-white text-center" id="services">
+	<div class="container px-4 px-lg-5">
+		<div class="content-section-heading">
+			<h3 class="text-secondary mb-0">Faydalar</h3>
+			<h2 class="mb-5">Sağladığımız Faydalar</h2>
+		</div>
+		<div class="row gx-4 gx-lg-5">
+			<div class="col-lg-4 col-md-6 mb-5 mb-lg-0">
+				<span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-like"></i></span>
+				<h4><strong>Beğenilenler</strong></h4>
+				<p class="text-faded mb-0">Beğenileriniz hakkında dönüt yapın ve destek olun.</p>
+			</div>
+			<div class="col-lg-4 col-md-6 mb-5 mb-lg-0">
+				<span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-pencil"></i></span>
+				<h4><strong>Paylaşım</strong></h4>
+				<p class="text-faded mb-0">Fikirlerinizi paylaşarak daha geniş kitleye ulaşın.</p>
+			</div>
+			<div class="col-lg-4 col-md-6 mb-5 mb-md-0">
+				<span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-dislike"></i></span>
+				<h4><strong>Beğenilmeyenler</strong></h4>
+				<p class="text-faded mb-0">
+					Beğenmedikleriniz hakkında dönüt yapın ve düzeltilmesine katkı sağlayın.
+				</p>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- Giriş-->
+<section class="content-section" id="portfolio">
+	<div class="container px-4 px-lg-5">
+		<div class="content-section-heading text-center">
+			<h3 class="text-secondary mb-0">Hoşgeldiniz</h3>
+			<h2 class="mb-5">Hesabınıza Giriş Yapın</h2>
+		</div>
+		<div class="row gx-0">
+			<div class="col-lg-6">
+				<a class="portfolio-item" href="/Login/Index">
+					<div class="caption">
+						<div class="caption-content">
+							<div class="h2">Kullanıcı</div>
+							<p class="mb-0">Öneride bulunmak isteyen bir çalışansanız buradan giriş yapabilirsiniz.</p>
+						</div>
+					</div>
+					<img class="img-fluid" src="~/yeniTema/assets/img/portfolio-1.jpg" alt="..." />
+				</a>
+			</div>
+
+			<div class="col-lg-6">
+				<a class="portfolio-item" href="/Login/Index">
+					<div class="caption">
+						<div class="caption-content">
+							<div class="h2">Yönetici</div>
+							<p class="mb-0">Yapılan önerileri görüntülemek isteyen yöneticiyseniz buradan giriş yapabilirsiniz.</p>
+						</div>
+					</div>
+					<img class="img-fluid" src="~/yeniTema/assets/img/portfolio-2.jpg" alt="..." />
+				</a>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- Callout-->
+<section class="callout" id="register">
+	<div class="container px-4 px-lg-5 text-center">
+		<h2 class="mx-auto mb-5">
+			Hesabınız yok mu?
+			Hemen kaydolun.
+		</h2>
+		<a class="btn btn-primary btn-xl" href=" /Register/Index">Kayıt Formu</a>
+	</div>
+</section>
+<!-- Map-->
+<div class="map" id="contact">
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d48345.38730589698!2d29.934501049999994!3d40.771114!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cb4f66644bfb9d%3A0x82690ee7586b7eb9!2zxLB6bWl0LCBLb2NhZWxp!5e0!3m2!1str!2str!4v1697204402840!5m2!1str!2str" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>			<br />
+	<small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A"></a></small>
+</div>

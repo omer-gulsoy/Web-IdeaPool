@@ -1,0 +1,52 @@
+﻿@{
+	ViewData["Title"] = "Doc";
+	Layout = "~/Views/Shared/_NewDefaultLayout.cshtml";
+}
+
+
+<head>
+
+	<title>Dosya Ekle</title>
+</head>
+
+<!-- Navigation-->
+<a class="menu-toggle rounded" href="#"><i class="fas fa-bars"></i></a>
+<nav id="sidebar-wrapper">
+	<ul class="sidebar-nav">
+		<li class="sidebar-brand"><a href="~/Default/Index"><h3><b>Fikir Havuzu</b></h3></a></li>
+		<li class="sidebar-nav-item"><a href="~/Default/Index">Ana Sayfa</a></li>
+		<li class="sidebar-nav-item"><a href="~/User/Index">Kullanıcı Paneli</a></li>
+		<li class="sidebar-nav-item"><a href="~/Idea/Index"><h4><b>Fikir/Öneri İşlemleri</b></h4></a></li>
+		<li class="sidebar-nav-item"><a href="~/MyProfile/Index">Profilim</a></li>
+		<li class="sidebar-nav-item"><a href="~/Default/Index">Çıkış Yap</a></li>
+	</ul>
+</nav>
+<div class="masthead d-flex align-items-center">
+	<div class="container">
+		<form method="post" enctype="multipart/form-data" asp-controller="FileUpload" asp-action="Doc">
+			<div class="row justify-content-center">
+				<div class="col-md-6">
+					<div class="card mb-4 mx-4" style="border-style: solid;border-color:black; border-width: 25px;border-radius:25px">
+						<div class="card-body p-4">
+
+							<h2 class="mb-3" id="baslik"><b>Dosya Ekle</b></h2>
+							<h8>Başlığınız :</h8>
+							<div class="input-group mb-3">
+								<span class="input-group-text">
+									<svg class="icon">
+										<use xlink:href="~/template/vendors/Acoreui/icons/svg/free.svg#cil-user"></use>
+
+									</svg>
+								</span>
+								<input type="file" name="files" multiple />
+							</div>@* başlık *@
+
+
+							<button class="btn btn-primary btn-lg btn-block" type="submit"><b>Yükle</b></button>
+						</div>
+					</div>
+				</div>
+			</div>
+		</form>
+	</div>
+</div>

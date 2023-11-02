@@ -1,0 +1,135 @@
+﻿@model Proje.DtoLayer.Dtos.AppUserDtos.AppUserEditDto
+@{
+	Layout = "~/Views/Shared/_NewDefaultLayout.cshtml";
+}
+<html lang="en">
+<head>
+
+	<title>Profilim</title>
+</head>
+<body>
+	<!-- Navigation-->
+	<a class="menu-toggle rounded" href="#"><i class="fas fa-bars"></i></a>
+	<nav id="sidebar-wrapper">
+		<ul class="sidebar-nav">
+			<li class="sidebar-brand"><a href="~/Default/Index"><h3><b>Fikir Havuzu</b></h3></a></li>
+			<li class="sidebar-nav-item"><a href="~/Default/Index">Ana Sayfa</a></li>
+			<li class="sidebar-nav-item"><a href="~/MyProfile/Index"><h4><b>Profilim</b></h4></a></li>
+			<li class="sidebar-nav-item"><a href="~/Default/Index">Çıkış Yap</a></li>
+		</ul>
+	</nav>
+
+	<div class="masthead d-flex align-items-center">
+		<div class="container">
+			<form method="post">
+				<div class="row justify-content-center">
+					<div class="col-md-6">
+						<div class="card mb-4 mx-4" style="border-style: solid;border-color:black; border-width: 25px;border-radius:25px">
+							<div class="card-body p-4">
+								<h2 class="mb-3" id="baslik"><b>Profil Bilgilerim</b></h2>
+								<h8>İsminiz :</h8>
+								<div class="input-group mb-3">
+									<span class="input-group-text">
+										<svg class="icon">
+											<use xlink:href="~/template/vendors/Acoreui/icons/svg/free.svg#cil-user"></use>
+
+										</svg>
+									</span>
+									<input asp-for="Name" required="required" class="form-control" type="text">
+								</div>@* İsim *@
+
+
+								<h8>Soyisminiz :</h8>
+								<div class="input-group mb-3">
+									<span class="input-group-text">
+										<svg class="icon">
+											<use xlink:href="~/template/vendors/Acoreui/icons/svg/free.svg#cil-user"></use>
+
+										</svg>
+									</span>
+									<input asp-for="Surname" required="required" class="form-control" type="text">
+								</div>@* Soyisim *@
+
+
+								<h8>T.C. Kimlik Numaranız :</h8>
+								<div class="input-group mb-3">
+									<span class="input-group-text">
+										<svg class="icon">
+											<use xlink:href="~/template/vendors/Acoreui/icons/svg/free.svg#cil-user"></use>
+
+										</svg>
+									</span>
+									<input type="text" asp-for="Username" required="required" class="form-control" type="text">
+								</div>@* Username/TCKNO *@
+
+
+								<h8>Sicil Numaranız :</h8>
+								<div class="input-group mb-3">
+									<span class="input-group-text">
+										<svg class="icon">
+											<use xlink:href="~/template/vendors/Acoreui/icons/svg/free.svg#cil-user"></use>
+
+										</svg>
+									</span>
+									<input asp-for="SicilNo" class="form-control" type="text">
+								</div>@* SicilNo *@
+
+
+								<h8>E-Posta Adresiniz :</h8>
+								<div class="input-group mb-3">
+									<span class="input-group-text">
+										<svg class="icon">
+											<use xlink:href="~/template/vendors/Acoreui/icons/svg/free.svg#cil-user"></use>
+
+										</svg>
+									</span>
+									<input asp-for="Email" class="form-control" type="text">
+								</div>@* E-Posta *@
+
+
+								<h8>Telefon Numaranız :</h8>
+								<div class="input-group mb-3">
+									<span class="input-group-text">
+										<svg class="icon">
+											<use xlink:href="~/template/vendors/Acoreui/icons/svg/free.svg#cil-user"></use>
+
+										</svg>
+									</span>
+									<input asp-for="PhoneNumber" class="form-control" type="text" placeholder="Numaranızı başında sıfır olmadan yazınız.">
+								</div>@* Telefon No *@
+
+
+								<h8>Parolanız :</h8>
+								<div class="input-group mb-3">
+									<span class="input-group-text">
+										<svg class="icon">
+											<use xlink:href="~/template/vendors/Acoreui/icons/svg/free.svg#cil-user"></use>
+
+										</svg>
+									</span>
+									<input type="password" asp-for="Password" class="form-control">
+								</div>@* Parola *@
+
+
+								<div class="input-group mb-3">
+									<span class="input-group-text">
+										<svg class="icon">
+											<use xlink:href="~/template/vendors/Acoreui/icons/svg/free.svg#cil-user"></use>
+
+										</svg>
+									</span>
+									<input type="password" asp-for="ConfirmPassword" class="form-control" placeholder="Parolanızı Tekrar Giriniz :">
+								</div>@* Parola Tekrar *@
+
+								<button class="btn btn-primary btn-lg btn-block" type="submit" id="send"><b>Profil Bilgilerimi Güncelle</b></button>
+
+							</div>
+						</div>
+					</div>
+				</div>
+			</form>
+		</div>
+	</div>
+</body>
+</html>
+

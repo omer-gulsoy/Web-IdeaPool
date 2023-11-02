@@ -1,0 +1,51 @@
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.DataAccessLayer\bin\Debug\net7.0\Proje.DataAccessLayer.deps.json
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.DataAccessLayer\bin\Debug\net7.0\Proje.DataAccessLayer.runtimeconfig.json
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.DataAccessLayer\bin\Debug\net7.0\Proje.DataAccessLayer.dll
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.DataAccessLayer\bin\Debug\net7.0\Proje.DataAccessLayer.pdb
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.DataAccessLayer\bin\Debug\net7.0\Proje.EntityLayer.dll
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.DataAccessLayer\bin\Debug\net7.0\Proje.EntityLayer.pdb
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.DataAccessLayer\obj\Debug\net7.0\Proje.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.DataAccessLayer\obj\Debug\net7.0\Proje.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.DataAccessLayer\obj\Debug\net7.0\Proje.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.DataAccessLayer\obj\Debug\net7.0\Proje.DataAccessLayer.AssemblyInfo.cs
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.DataAccessLayer\obj\Debug\net7.0\Proje.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.DataAccessLayer\obj\Debug\net7.0\Proje.DataAccessLayer.csproj.CopyComplete
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.DataAccessLayer\obj\Debug\net7.0\Proje.DataAccessLayer.dll
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.DataAccessLayer\obj\Debug\net7.0\refint\Proje.DataAccessLayer.dll
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.DataAccessLayer\obj\Debug\net7.0\Proje.DataAccessLayer.pdb
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.DataAccessLayer\obj\Debug\net7.0\Proje.DataAccessLayer.genruntimeconfig.cache
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.DataAccessLayer\obj\Debug\net7.0\ref\Proje.DataAccessLayer.dll
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.DataAccessLayer\bin\Debug\net7.0\Proje.DataAccessLayer.deps.json
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.DataAccessLayer\bin\Debug\net7.0\Proje.DataAccessLayer.runtimeconfig.json
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.DataAccessLayer\bin\Debug\net7.0\Proje.DataAccessLayer.dll
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.DataAccessLayer\bin\Debug\net7.0\Proje.DataAccessLayer.pdb
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.DataAccessLayer\bin\Debug\net7.0\Proje.EntityLayer.dll
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.DataAccessLayer\bin\Debug\net7.0\Proje.EntityLayer.pdb
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.DataAccessLayer\obj\Debug\net7.0\Proje.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.DataAccessLayer\obj\Debug\net7.0\Proje.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.DataAccessLayer\obj\Debug\net7.0\Proje.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.DataAccessLayer\obj\Debug\net7.0\Proje.DataAccessLayer.AssemblyInfo.cs
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.DataAccessLayer\obj\Debug\net7.0\Proje.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.DataAccessLayer\obj\Debug\net7.0\Proje.DataAccessLayer.csproj.CopyComplete
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.DataAccessLayer\obj\Debug\net7.0\Proje.DataAccessLayer.dll
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.DataAccessLayer\obj\Debug\net7.0\refint\Proje.DataAccessLayer.dll
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.DataAccessLayer\obj\Debug\net7.0\Proje.DataAccessLayer.pdb
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.DataAccessLayer\obj\Debug\net7.0\Proje.DataAccessLayer.genruntimeconfig.cache
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.DataAccessLayer\obj\Debug\net7.0\ref\Proje.DataAccessLayer.dll
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.DataAccessLayer\bin\Debug\net7.0\Proje.DataAccessLayer.deps.json
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.DataAccessLayer\bin\Debug\net7.0\Proje.DataAccessLayer.runtimeconfig.json
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.DataAccessLayer\bin\Debug\net7.0\Proje.DataAccessLayer.dll
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.DataAccessLayer\bin\Debug\net7.0\Proje.DataAccessLayer.pdb
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.DataAccessLayer\bin\Debug\net7.0\Proje.EntityLayer.dll
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.DataAccessLayer\bin\Debug\net7.0\Proje.EntityLayer.pdb
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.DataAccessLayer\obj\Debug\net7.0\Proje.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.DataAccessLayer\obj\Debug\net7.0\Proje.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.DataAccessLayer\obj\Debug\net7.0\Proje.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.DataAccessLayer\obj\Debug\net7.0\Proje.DataAccessLayer.AssemblyInfo.cs
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.DataAccessLayer\obj\Debug\net7.0\Proje.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.DataAccessLayer\obj\Debug\net7.0\Proje.DataAccessLayer.csproj.CopyComplete
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.DataAccessLayer\obj\Debug\net7.0\Proje.DataAccessLayer.dll
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.DataAccessLayer\obj\Debug\net7.0\refint\Proje.DataAccessLayer.dll
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.DataAccessLayer\obj\Debug\net7.0\Proje.DataAccessLayer.pdb
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.DataAccessLayer\obj\Debug\net7.0\Proje.DataAccessLayer.genruntimeconfig.cache
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.DataAccessLayer\obj\Debug\net7.0\ref\Proje.DataAccessLayer.dll

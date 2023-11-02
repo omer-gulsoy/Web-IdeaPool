@@ -1,0 +1,42 @@
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.EntityLayer\bin\Debug\net7.0\Proje.EntityLayer.deps.json
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.EntityLayer\bin\Debug\net7.0\Proje.EntityLayer.runtimeconfig.json
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.EntityLayer\bin\Debug\net7.0\Proje.EntityLayer.dll
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.EntityLayer\bin\Debug\net7.0\Proje.EntityLayer.pdb
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.EntityLayer\obj\Debug\net7.0\Proje.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.EntityLayer\obj\Debug\net7.0\Proje.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.EntityLayer\obj\Debug\net7.0\Proje.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.EntityLayer\obj\Debug\net7.0\Proje.EntityLayer.AssemblyInfo.cs
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.EntityLayer\obj\Debug\net7.0\Proje.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.EntityLayer\obj\Debug\net7.0\Proje.EntityLayer.dll
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.EntityLayer\obj\Debug\net7.0\refint\Proje.EntityLayer.dll
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.EntityLayer\obj\Debug\net7.0\Proje.EntityLayer.pdb
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.EntityLayer\obj\Debug\net7.0\Proje.EntityLayer.genruntimeconfig.cache
+C:\Users\win11\Documents\ProjeSonHali\Proje\Proje.EntityLayer\obj\Debug\net7.0\ref\Proje.EntityLayer.dll
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.EntityLayer\bin\Debug\net7.0\Proje.EntityLayer.deps.json
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.EntityLayer\bin\Debug\net7.0\Proje.EntityLayer.runtimeconfig.json
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.EntityLayer\bin\Debug\net7.0\Proje.EntityLayer.dll
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.EntityLayer\bin\Debug\net7.0\Proje.EntityLayer.pdb
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.EntityLayer\obj\Debug\net7.0\Proje.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.EntityLayer\obj\Debug\net7.0\Proje.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.EntityLayer\obj\Debug\net7.0\Proje.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.EntityLayer\obj\Debug\net7.0\Proje.EntityLayer.AssemblyInfo.cs
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.EntityLayer\obj\Debug\net7.0\Proje.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.EntityLayer\obj\Debug\net7.0\Proje.EntityLayer.dll
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.EntityLayer\obj\Debug\net7.0\refint\Proje.EntityLayer.dll
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.EntityLayer\obj\Debug\net7.0\Proje.EntityLayer.pdb
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.EntityLayer\obj\Debug\net7.0\Proje.EntityLayer.genruntimeconfig.cache
+C:\Users\win11\Documents\site - Fikir Havuzu\Proje\Proje.EntityLayer\obj\Debug\net7.0\ref\Proje.EntityLayer.dll
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.EntityLayer\bin\Debug\net7.0\Proje.EntityLayer.deps.json
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.EntityLayer\bin\Debug\net7.0\Proje.EntityLayer.runtimeconfig.json
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.EntityLayer\bin\Debug\net7.0\Proje.EntityLayer.dll
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.EntityLayer\bin\Debug\net7.0\Proje.EntityLayer.pdb
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.EntityLayer\obj\Debug\net7.0\Proje.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.EntityLayer\obj\Debug\net7.0\Proje.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.EntityLayer\obj\Debug\net7.0\Proje.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.EntityLayer\obj\Debug\net7.0\Proje.EntityLayer.AssemblyInfo.cs
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.EntityLayer\obj\Debug\net7.0\Proje.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.EntityLayer\obj\Debug\net7.0\Proje.EntityLayer.dll
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.EntityLayer\obj\Debug\net7.0\refint\Proje.EntityLayer.dll
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.EntityLayer\obj\Debug\net7.0\Proje.EntityLayer.pdb
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.EntityLayer\obj\Debug\net7.0\Proje.EntityLayer.genruntimeconfig.cache
+C:\Users\win11\Documents\Arşiv\yedek\25102023\site - Fikir Havuzu\Proje\Proje.EntityLayer\obj\Debug\net7.0\ref\Proje.EntityLayer.dll
