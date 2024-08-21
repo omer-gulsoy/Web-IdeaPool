@@ -51,8 +51,9 @@ yöneticilerin fikirler/öneriler hakkında daha sağlıklı karar vermelerini s
 
 ### Genel Fonksiyonlar:
 
-    - Kaydol: Kullanıcılar fikirlerinim belirtmek isterlerse; isim, soyisim, T.C. Kimlik numarası, e-posta adresi, telefon numarası,
-    sicil numarası ve kendi belirleyecekleri parola ile profillerini oluşturup sisteme kayıtlarını gerçekleştirebilirler.
+    - Kaydol: Kullanıcılar fikirlerinim belirtmek isterlerse; isim, soyisim, T.C. Kimlik numarası, e-posta adresi, telefon
+    numarası, sicil numarası ve kendi belirleyecekleri parola ile profillerini oluşturup sisteme kayıtlarını
+    gerçekleştirebilirler.
 
     -Giriş Yap: Sisteme kayıtlı kullanıcılar ve yöneticiler T.C. Kimlik Numarası ve parolaları ile giriş yapabilirler.    
 
@@ -66,9 +67,9 @@ yöneticilerin fikirler/öneriler hakkında daha sağlıklı karar vermelerini s
     - Fikir/Öneri Girişi: Sisteme kayıtlı kullanıcılar eklemek istedikleri fikir/önerileri başlık, kategori, fikrin/önerinin
     sağlayacağı fayda, içerik olacak şekilde giriş yapabilirler. Eklemek istenilen dosya varsa dosya eklentisi yapabilirler.
 
-    - Fikir/Öneri İşlemleri: Yöneticiler kullanıcıların eklediği fikirleri/önerileri burada listeleyebilir, listelenenler arasında arama
-    yapabilir, girdinin statüsünü, girdi hakkında verilen kararı değiştirebilir, girdi hakkında değerlendirme yapabilir ve puanlamada
-    bulunabilir.
+    - Fikir/Öneri İşlemleri: Yöneticiler kullanıcıların eklediği fikirleri/önerileri burada listeleyebilir, listelenenler
+    arasında arama yapabilir, girdinin statüsünü, girdi hakkında verilen kararı değiştirebilir, girdi hakkında değerlendirme
+    yapabilir ve puanlamada bulunabilir.
 
     - Kullanıcı İşlemleri: Yöneticiler sisteme kayıtlı kullanıcıları ve bilgilerini görüntüleyebilir, kayıtlı kullanıcılara
     yetkilendirmede bulunabilir, statülerini değiştirebilir ve silebilir.
