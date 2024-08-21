@@ -1,8 +1,53 @@
-# FikirHavuzuSitesi
-Fikir Havuzu Sitesi projesi, hayata geçmesi halinde; kullanıcıların fikirlerini/önerilerini yöneticilere daha doğru ve tam iletmelerini sağlayacak,
-yöneticilerin fikirler/öneriler hakkında daha sağlıklı karar vermelerini sağlayacaktır.
+# English
+## IdeaPoolWebsite
+***Idea Pool Site project, if implemented; It will enable users to convey their ideas/suggestions to managers more accurately and completely,
+It will enable managers to make healthier decisions about ideas/suggestions.***
 
-Genel Fonksiyonlar:
+### General Functions:
+
+    - Sign up: If users want to express their opinions; name, surname, T.R. ID number, e-mail address, telephone number,
+     They can create their profile and register to the system with their registration number and password of their own choosing.
+    
+     -Log In: Users and administrators registered in the system T.R. They can log in with their ID Number and password.
+    
+     - User Page: Users can enter ideas/suggestions and make changes to their profile information.
+     has a personal page.
+    
+     - Administrator Page: Administrator can view the actions to be taken regarding the ideas/suggestions entered into the system, information about the users registered in the system.
+     It has a personal page where the actions they can take and the actions they can take about themselves in their profile information are listed.
+    
+     - Idea/Suggestion Entry: Users registered in the system can submit the ideas/suggestions they want to add by entering the title, category, and the idea/suggestion will be provided.
+     They can log in based on benefit and content. If there is a file you want to add, they can make a file attachment.
+    
+     - Idea/Suggestion Transactions: Administrators can list the ideas/suggestions added by users here, search among those listed
+     can change the status of the entry, change the decision made about the entry, evaluate the entry and make changes in scoring.
+     can be found.
+    
+     - User Transactions: Administrators can view the users registered in the system and their information, and provide authorization to registered users.
+     can be found, changed their status and deleted.
+    
+     -Profile Transactions: Administrators and users registered in the system can update their profile information.
+
+### Programming Languages ​​I Use:
+
+
+    Frontend:   - HTML
+                - CSS
+                - JavaScript
+                - SCSS
+    
+    Backend:    - C#
+
+    Database: - MS SQL19
+
+> The texts in the program are in Turkish.
+
+# Türkçe
+## FikirHavuzuSitesi
+***Fikir Havuzu Sitesi projesi, hayata geçmesi halinde; kullanıcıların fikirlerini/önerilerini yöneticilere daha doğru ve tam iletmelerini sağlayacak,
+yöneticilerin fikirler/öneriler hakkında daha sağlıklı karar vermelerini sağlayacaktır.***
+
+### Genel Fonksiyonlar:
 
     - Kaydol: Kullanıcılar fikirlerinim belirtmek isterlerse; isim, soyisim, T.C. Kimlik numarası, e-posta adresi, telefon numarası,
     sicil numarası ve kendi belirleyecekleri parola ile profillerini oluşturup sisteme kayıtlarını gerçekleştirebilirler.
@@ -27,7 +72,7 @@ Genel Fonksiyonlar:
 
     -Profil İşlemleri: Sisteme kayıtlı yöneticilier ve kullanıcılar kendi profil bilgilerini güncelleyebilirler.
     
-Kullanılan Diller:
+### Kullanılan Diller:
 
     Frontend:   - HTML
                 - CSS
@@ -38,8 +83,7 @@ Kullanılan Diller:
 
     Veritabanı: - MS SQL19
 
-Projeye Ait Görseller:
-
+### Images of the Project:
 ![1](https://github.com/omer-gulsoy/FikirHavuzuSitesi/assets/139320509/64035cee-2c59-4d0a-892c-055ea9fc660d)
 ![1_2](https://github.com/omer-gulsoy/FikirHavuzuSitesi/assets/139320509/862206ae-cbe2-4000-8090-90bf4bdc7688)
 ![2](https://github.com/omer-gulsoy/FikirHavuzuSitesi/assets/139320509/2915fac5-2fd2-466d-b122-ab7258ed7111)
