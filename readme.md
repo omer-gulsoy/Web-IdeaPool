@@ -13,18 +13,20 @@ It will enable managers to make healthier decisions about ideas/suggestions.***
      - User Page: Users can enter ideas/suggestions and make changes to their profile information.
      has a personal page.
     
-     - Administrator Page: Administrator can view the actions to be taken regarding the ideas/suggestions entered into the system, information about the users registered in the system.
-     It has a personal page where the actions they can take and the actions they can take about themselves in their profile information are listed.
+     - Administrator Page: Administrator can view the actions to be taken regarding the ideas/suggestions entered into the system, 
+    information about the users registered in the system.It has a personal page where the actions they can take and the actions 
+    they can take about themselves in their profile information are listed.
     
-     - Idea/Suggestion Entry: Users registered in the system can submit the ideas/suggestions they want to add by entering the title, category, and the idea/suggestion will be provided.
-     They can log in based on benefit and content. If there is a file you want to add, they can make a file attachment.
+     - Idea/Suggestion Entry: Users registered in the system can submit the ideas/suggestions they want to add by
+    entering the title, category, and the idea/suggestion will be provided.They can log in based on benefit and content.
+    If there is a file you want to add, they can make a file attachment.
     
      - Idea/Suggestion Transactions: Administrators can list the ideas/suggestions added by users here, search among those listed
      can change the status of the entry, change the decision made about the entry, evaluate the entry and make changes in scoring.
      can be found.
     
-     - User Transactions: Administrators can view the users registered in the system and their information, and provide authorization to registered users.
-     can be found, changed their status and deleted.
+     - User Transactions: Administrators can view the users registered in the system and their information, and provide
+    authorization to registered users. Can be found, changed their status and deleted.
     
      -Profile Transactions: Administrators and users registered in the system can update their profile information.
 
