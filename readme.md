@@ -59,18 +59,19 @@ yöneticilerin fikirler/öneriler hakkında daha sağlıklı karar vermelerini s
     - Kullanıcı Sayfası: Kullanıcılar, fikir/öneri girişi yapabileceği ve kendi profil bilgilerinde değişiklikte bulunabileceği
     bir kişisel sayfaya sahiptir.
 
-    - Yönetici Sayfası: Yönetici, sisteme girilen fikirler/öneriler hakkında yapacakları işlemlerin, sisteme kayıtlı kullanıcılar hakkında
-    yapabilecekleri işlemlerin ve kendi profil bilgilerinde hakkında yapabilecekleri işlemlerin listelendiği bir kişisel sayfaya sahiptir.
+    - Yönetici Sayfası: Yönetici, sisteme girilen fikirler/öneriler hakkında yapacakları işlemlerin, sisteme kayıtlı kullanıcılar
+    hakkında yapabilecekleri işlemlerin ve kendi profil bilgilerinde hakkında yapabilecekleri işlemlerin listelendiği bir
+    kişisel sayfaya sahiptir.
 
-    - Fikir/Öneri Girişi: Sisteme kayıtlı kullanıcılar eklemek istedikleri fikir/önerileri başlık, kategori, fikrin/önerinin sağlayacağı
-    fayda, içerik olacak şekilde giriş yapabilirler. Eklemek istenilen dosya varsa dosya eklentisi yapabilirler.
+    - Fikir/Öneri Girişi: Sisteme kayıtlı kullanıcılar eklemek istedikleri fikir/önerileri başlık, kategori, fikrin/önerinin
+    sağlayacağı fayda, içerik olacak şekilde giriş yapabilirler. Eklemek istenilen dosya varsa dosya eklentisi yapabilirler.
 
     - Fikir/Öneri İşlemleri: Yöneticiler kullanıcıların eklediği fikirleri/önerileri burada listeleyebilir, listelenenler arasında arama
     yapabilir, girdinin statüsünü, girdi hakkında verilen kararı değiştirebilir, girdi hakkında değerlendirme yapabilir ve puanlamada
     bulunabilir.
 
-    - Kullanıcı İşlemleri: Yöneticiler sisteme kayıtlı kullanıcıları ve bilgilerini görüntüleyebilir, kayıtlı kullanıcılara yetkilendirmede
-    bulunabilir, statülerini değiştirebilir ve silebilir.
+    - Kullanıcı İşlemleri: Yöneticiler sisteme kayıtlı kullanıcıları ve bilgilerini görüntüleyebilir, kayıtlı kullanıcılara
+    yetkilendirmede bulunabilir, statülerini değiştirebilir ve silebilir.
 
     -Profil İşlemleri: Sisteme kayıtlı yöneticilier ve kullanıcılar kendi profil bilgilerini güncelleyebilirler.
     
